@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32511/dbatra/code/p24_approx_mbr/mbr_intseg/my_utils
+END
+get_state_energy.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32511/dbatra/code/p24_approx_mbr/mbr_intseg/my_utils/get_state_energy.m
+END
+perform_inference.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/32511/dbatra/code/p24_approx_mbr/mbr_intseg/my_utils/perform_inference.m
+END
+computeStats.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32511/dbatra/code/p24_approx_mbr/mbr_intseg/my_utils/computeStats.m
+END
+label2seg.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32511/dbatra/code/p24_approx_mbr/mbr_intseg/my_utils/label2seg.m
+END
